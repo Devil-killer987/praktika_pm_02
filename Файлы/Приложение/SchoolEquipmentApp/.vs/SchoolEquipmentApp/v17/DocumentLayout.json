@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\specificationdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\specificationdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\specificationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\specificationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\specificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\specificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\equipmentdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\equipmentdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\equipmentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\equipmentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\equipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\equipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\equipmenttypedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\equipmenttypedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\equipmenttypedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\equipmenttypedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\equipmenttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\equipmenttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\classroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\classroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\classroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\classroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\classroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\classroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\buildingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\buildingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\buildingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\buildingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\buildingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\buildingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\services\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:services\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|g:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\schoolequipmentapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82D20B-C5D8-44D4-BEDE-454BD40FA3F1}|SchoolEquipmentApp.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-05T14:30:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:29:49.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecificationDialog.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\SpecificationDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SpecificationDialog.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\SpecificationDialog.xaml.cs",
+              "RelativeToolTip": "Views\\SpecificationDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:29:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecificationDialog.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\SpecificationDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\SpecificationDialog.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\SpecificationDialog.xaml",
+              "RelativeToolTip": "Views\\SpecificationDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:29:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpecificationViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\SpecificationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SpecificationViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\SpecificationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SpecificationViewModel.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:28:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipmentDialog.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EquipmentDialog.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentDialog.xaml.cs",
+              "RelativeToolTip": "Views\\EquipmentDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:28:20.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:12:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipmentDialog.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\EquipmentDialog.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentDialog.xaml",
+              "RelativeToolTip": "Views\\EquipmentDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:27:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipmentViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\EquipmentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EquipmentViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\EquipmentViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EquipmentViewModel.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAADwv+cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:27:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipmentTypeDialog.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentTypeDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EquipmentTypeDialog.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentTypeDialog.xaml.cs",
+              "RelativeToolTip": "Views\\EquipmentTypeDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:27:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipmentTypeDialog.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentTypeDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\EquipmentTypeDialog.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\EquipmentTypeDialog.xaml",
+              "RelativeToolTip": "Views\\EquipmentTypeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:26:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EquipmentTypeViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\EquipmentTypeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EquipmentTypeViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\EquipmentTypeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EquipmentTypeViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:26:25.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassroomDialog.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\ClassroomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ClassroomDialog.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\ClassroomDialog.xaml.cs",
+              "RelativeToolTip": "Views\\ClassroomDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:26:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassroomDialog.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\ClassroomDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\ClassroomDialog.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\ClassroomDialog.xaml",
+              "RelativeToolTip": "Views\\ClassroomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:25:48.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassroomViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\ClassroomViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ClassroomViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\ClassroomViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ClassroomViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:25:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildingDialog.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\BuildingDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BuildingDialog.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\BuildingDialog.xaml.cs",
+              "RelativeToolTip": "Views\\BuildingDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:25:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuildingDialog.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\BuildingDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\BuildingDialog.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\BuildingDialog.xaml",
+              "RelativeToolTip": "Views\\BuildingDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:24:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuildingViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\BuildingViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BuildingViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\BuildingViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BuildingViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:24:24.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAADwv2cBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:23:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:22:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-05T14:22:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:21:25.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DialogService.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\DialogService.cs",
+              "RelativeDocumentMoniker": "Services\\DialogService.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\DialogService.cs",
+              "RelativeToolTip": "Services\\DialogService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:20:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:12:01.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv0QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:20:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "G:\\\u043F\u0440\u043E\u0433\u0438 \u0432\u0438\u0436\u0443\u0430\u043B\\SchoolEquipmentApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAADwvwwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T14:19:13.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
